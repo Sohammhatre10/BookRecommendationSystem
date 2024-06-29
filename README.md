@@ -1,4 +1,4 @@
-# BookRecommendationSystem
+# Book Recommendation System
 The assignment given by SoftNerve Technologies
 
 The deployment is done on Hugging Face Spaces 
