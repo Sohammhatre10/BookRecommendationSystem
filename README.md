@@ -8,4 +8,5 @@ This is the link for the deployed recommendation system -> https://huggingface.c
 
 Youtube demo video explanation link 
 
-[![Video Title](https://img.youtube.com/vi/88Hgm_HZAds/0.jpg)](https://www.youtube.com/watch?v=88Hgm_HZAds)
+[![Video Thumbnail](https://img.youtube.com/vi/88Hgm_HZAds/0.jpg)](https://www.youtube.com/watch?v=88Hgm_HZAds)
+
