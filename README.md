@@ -8,5 +8,6 @@ This is the link for the deployed recommendation system -> https://huggingface.c
 
 Youtube demo video explanation link 
 
-[![Video Thumbnail](https://img.youtube.com/vi/88Hgm_HZAds/0.jpg)](https://www.youtube.com/watch?v=88Hgm_HZAds)
+[![Clickable Image](https://github.com/Sohammhatre10/BookRecommendationSystem/assets/106436641/7dce2701-8bef-4d5d-bf55-875a1e7d377a)](https://your-target-url.com)
+
 
